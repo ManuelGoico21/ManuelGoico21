@@ -36,10 +36,21 @@ Hi! I'm **Manuel**, a passionate Network and Telecommunications Engineer with a 
 
 <p align="center">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=dart,mysql,php,java,ts,docker,vim" />
+     <img src="https://skillicons.dev/icons?i=dart,mysql,php,java,ts,docker,django" />
   </a>
 </p>
-  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=firebase,github,gmail,linux,htmx,git" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet" />
+  </a>
+</p>  
 
 ---
 
