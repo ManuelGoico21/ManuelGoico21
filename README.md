@@ -1,10 +1,10 @@
 ![Banner](python-banner.png)
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,cs)](https://skillicons.dev)
 
 # Hi there! 👋 Welcome to my GitHub
 
 🌐 **Network & Telecommunications Engineer**  
-💻 **Python Developer | Tech Enthusiast**  
+💻 **Python Developer | Tech Enthusiast**
+
 
 ---
 
@@ -27,7 +27,19 @@ Hi! I'm **Manuel**, a passionate Network and Telecommunications Engineer with a 
 - **Networking**: Cisco Networking, Network Design, Troubleshooting  
 - **Tools & Technologies**: Wireshark, Docker, Git, Ansible  
 - **Operating Systems**: Linux (Ubuntu, CentOS), Windows Server  
-- **Other Skills**: Automation, Cybersecurity Fundamentals, Problem-Solving  
+- **Other Skills**: Automation, Cybersecurity Fundamentals, Problem-Solving
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,gcp,azure,react,vue,js,html,css" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=dart,mysql,php,java,ts,docker,vim" />
+  </a>
+</p>
+  
 
 ---
 
