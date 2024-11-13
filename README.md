@@ -1,16 +1,5 @@
 ![Banner](python-banner.png)
-## Visitor Count
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ManuelGoico21.LifeDev)
-## 🚀 Lenguajes más utilizados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelGoico21&layout=compact)
-## 📊 Estadísticas de WakaTime
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ManuelGoico21)
-## 🌐 Encuéntrame en:
-- [GitHub](https://github.com/ManuelGoico21)
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ManuelGoico21=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ManuelGoico21=anuraghazra&show_icons=true)
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ManuelGoico21=anuraghazra&show_icons=true&theme=radical)
- 
+
 # Hi there! 👋 Welcome to my GitHub
 
 🌐 **Network & Telecommunications Engineer**  
