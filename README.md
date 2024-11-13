@@ -61,9 +61,7 @@ Hi! I'm **Manuel**, a passionate Network and Telecommunications Engineer with a 
 
 ### Here's my GitHub stats:
 
-# ![ManuelGoico21 GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelGoico21&show_icons=true&theme=radical)
-
-# ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManuelGoico21&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ManuelGoico21&theme=radical&date_format=j%20M%5B%20Y%5D&hide_current_streak=true)](https://git.io/streak-stats)
 
 
 ### 📫 Let’s connect!
