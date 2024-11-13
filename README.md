@@ -1,5 +1,5 @@
 ![Banner](python-banner.png)
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,cs)](https://skillicons.dev)
 
 # Hi there! 👋 Welcome to my GitHub
 
