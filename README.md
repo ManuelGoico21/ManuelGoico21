@@ -59,6 +59,18 @@ Hi! I'm **Manuel**, a passionate Network and Telecommunications Engineer with a 
 - Diving deeper into cybersecurity and server management.
 - Sharing my knowledge and collaborating on open-source projects.
 
+### Here's my GitHub stats:
+
+![ManuelGoico21 GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelGoico21&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManuelGoico21&theme=radical)
+
+![Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelGoico21&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=ManuelGoico21)
+
+  
+
 ### 📫 Let’s connect!
 If you're a fellow tech enthusiast or have an exciting project in mind, feel free to reach out! Let's create, innovate, and grow together.
 
