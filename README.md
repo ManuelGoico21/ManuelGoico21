@@ -65,7 +65,7 @@ Hi! I'm **Manuel**, a passionate Network and Telecommunications Engineer with a 
 
 # ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManuelGoico21&theme=radical)
 
-# ![Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelGoico21&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+# 
 
 # ![Trophy](https://github-profile-trophy.vercel.app/?username=ManuelGoico21)
 
