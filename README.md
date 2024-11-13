@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](python-banner.png)
 
 
 # Hi there! 👋 Welcome to my GitHub
