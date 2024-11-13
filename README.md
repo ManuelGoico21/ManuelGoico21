@@ -65,11 +65,6 @@ Hi! I'm **Manuel**, a passionate Network and Telecommunications Engineer with a 
 
 # ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManuelGoico21&theme=radical)
 
-# 
-
-# 
-
-  
 
 ### 📫 Let’s connect!
 If you're a fellow tech enthusiast or have an exciting project in mind, feel free to reach out! Let's create, innovate, and grow together.
