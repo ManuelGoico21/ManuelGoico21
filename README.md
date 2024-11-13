@@ -67,7 +67,7 @@ Hi! I'm **Manuel**, a passionate Network and Telecommunications Engineer with a 
 
 # 
 
-# ![Trophy](https://github-profile-trophy.vercel.app/?username=ManuelGoico21)
+# 
 
   
 
