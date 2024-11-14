@@ -1,6 +1,32 @@
 ![Banner](python-banner.png)
 
-# Hi there! 👋 Welcome to my GitHub
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=supravatm&label=Profile%20views&color=0e75b6&style=flat" alt="Supravat-mondal" /> 
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
+
+<br><br>
+# Hi there! <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" /> Welcome to my GitHub
 
 🌐 **Network & Telecommunications Engineer**  
 💻 **Python Developer | Tech Enthusiast**
@@ -9,6 +35,8 @@
 ---
 
 Hi! I'm **Manuel**, a passionate Network and Telecommunications Engineer with a strong focus on technology and coding. I specialize in Python and love combining it with my networking expertise to solve real-world challenges and create innovative solutions.
+
+
 
 ### ⚡ What drives me?
 - **Networking**: Designing, implementing, and managing efficient and secure network infrastructures.
