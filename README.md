@@ -1,7 +1,7 @@
 ![Banner](python-banner.png)
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supravatm&label=Profile%20views&color=0e75b6&style=flat" alt="Supravat-mondal" /> 
+ <img src="https://komarev.com/ghpvc/?username=ManuelGoico21&label=Profile%20views&color=0e75b6&style=flat" alt="Supravat-mondal" /> 
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
@@ -23,11 +23,10 @@
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
 
 <br><br>
 # Hi there! <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" /> Welcome to my GitHub
-
+---
 🌐 **Network & Telecommunications Engineer**  
 💻 **Python Developer | Tech Enthusiast**
 
