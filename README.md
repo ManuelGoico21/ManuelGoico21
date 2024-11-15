@@ -1,7 +1,7 @@
 ![Banner](banner3.png)
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=ManuelGoico21&label=Profile%20Views&color=66ff00&style=plastic&base=1000" alt="Supravat-mondal" height="40" />
+    <img src="https://komarev.com/ghpvc/?username=ManuelGoico21&label=Profile%20Views&color00008B=&style=plastic&base=1000" alt="Supravat-mondal" height="40" />
 </p>
  
 
