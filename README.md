@@ -27,7 +27,7 @@
 
 
 <br><br>
-# Hi there! <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" /> Welcome to my GitHub
+# Hi there! <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" /> Welcome to my World
 ---
 🌐 **Network & Telecommunications Engineer**  
 💻 **Python Developer | Tech Enthusiast**
